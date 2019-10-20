@@ -38,10 +38,10 @@ By default the program is set to receive **7** unique numbers from the user from
 These values can be easily changed in the code as they are introduced in the main method and passed on to other methods:
 ```
 public static void main(String [] args) {
-        int victory = 7;
-        int pool = 40;
-        int []user = checkArgs(args, victory, pool);
-        boolean print = ask();
-        winLotto(user, print, victory, pool);
-    }
+    int victory = 7;
+    int pool = 40;
+    int []user = checkArgs(args, victory, pool);
+    boolean print = ask();
+    winLotto(user, print, victory, pool);
+}
 ```
