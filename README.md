@@ -1,6 +1,6 @@
 # Lotto App
 
-**Lotto app** is an application that calculates how many years it would take you to win the lottery.
+**Lotto app** is an application that calculates how many years it would take for you to win the lottery.
 
 ## About
 
