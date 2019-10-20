@@ -40,4 +40,8 @@ These values can be easily changed in the code as they are introduced in the mai
 public static void main(String [] args) {
         int victory = 7;
         int pool = 40;
+        int []user = checkArgs(args, victory, pool);
+        boolean print = ask();
+        winLotto(user, print, victory, pool);
+    }
 ```
