@@ -36,7 +36,7 @@ public class Lotto {
      */
     public static int[] checkArgs(String [] array, int index, int pool) {
         int [] user;
-        if (array.length > index || array.length < index) {
+        if (array.length != index) {
             user = start(index, pool);
         }
         else {
