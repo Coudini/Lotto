@@ -29,7 +29,7 @@ public static int[] sort(int [] array) {
 ## Run
 
 Simply run the java program in command prompt.
-You can either specify your lottery numbers as you initialize the program in command prompt for example `java Lotto 1 2 3 4 12 23 34` or just let the program ask you them.
+You can either specify your lottery numbers as you initialize the program in command prompt for example `java Lotto 1 2 3 4 12 23 34` or just let the program ask them for you.
 
 ## How
 
